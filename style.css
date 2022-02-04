@@ -4,8 +4,9 @@ h1 {
 
 * {
     box-sizing: border-box;
+    font-family: serif;
 }
 
 p {
-    color: aquamarine;
+    color: blueviolet;
 }
