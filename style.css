@@ -19,4 +19,7 @@ h3 {
 
 h2 {
     color: aqua;
+    font-weight: 700;
+    line-height: 1.2;
+    letter-spacing: normal;
 }
